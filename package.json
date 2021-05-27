@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chemapanda/curso-node-tareas/issues"
   },
-  "homepage": "https://github.com/chemapanda/curso-node-tareas#readme"
+  "homepage": "https://github.com/chemapanda/curso-node-tareas#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
